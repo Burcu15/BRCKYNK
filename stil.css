@@ -1,0 +1,45 @@
+body {
+    background-color: rosybrown;
+}
+
+.ilkp{
+    text-align: justify;
+    text-transform: uppercase;
+}
+
+.ikincip{
+    text-align: right;
+    text-transform: lowercase;
+}
+
+.ucuncup{
+    text-align: left;
+}
+
+.emiralpvid{
+
+color: gold;
+background-color: red;
+}
+
+.ucuncup{
+    text-indent: 10px;
+    line-height: 30px;
+    word-spacing: 10px;
+    border:10px groove red
+}
+div{
+    margin: 10px;
+    background-color: aquamarine;
+}
+.kutu1{
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.kutu2{
+    padding: 10px 20px;
+}
+.kutu3{
+    padding: 10px;
+}
